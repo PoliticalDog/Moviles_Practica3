@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260853013662",
+    "project_id": "crud-entregable",
+    "storage_bucket": "crud-entregable.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260853013662:android:e4fc7fcec7b7cf9a786f8f",
+        "android_client_info": {
+          "package_name": "com.ipn.crud_entregable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCtznC7HgyzkU66Vl-4rk7ViKoLe7bXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260853013662:android:705a2ca61eabf55e786f8f",
+        "android_client_info": {
+          "package_name": "com.ipn.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCtznC7HgyzkU66Vl-4rk7ViKoLe7bXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
